@@ -9,7 +9,6 @@ using System.Reflection;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Core.Audio;
-using Microsoft.CodeAnalysis.VisualBasic.Syntax;
 using T3.Core.Animation;
 using T3.Core.IO;
 using T3.Core.Logging;
